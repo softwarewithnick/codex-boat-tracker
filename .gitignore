@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.firecrawl/
+.local/
+captures/
+launch.log
+
+# Generated packages and local design/preview artifacts
+/boat-tracker-update.zip
+/preview.png
+/live-preview.png
+/ChatGPT Image*.png
+*.dpapi
+
+# Personal tracking area and local credentials
+/config.json
+*.pem
+*.key
+*.p12
+*.pfx
+

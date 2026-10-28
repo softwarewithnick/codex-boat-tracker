@@ -1,0 +1,18 @@
+{
+  "area_name": "South Florida example",
+  "bounds": {
+    "west": -80.16,
+    "south": 26.0,
+    "east": -79.7,
+    "north": 26.25
+  },
+  "display": {
+    "width": 800,
+    "height": 480,
+    "fps": 20
+  },
+  "stale_seconds": 180,
+  "expire_seconds": 900,
+  "max_vessels": 400,
+  "trail_points": 48
+}
